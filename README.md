@@ -24,3 +24,4 @@ http://truffleframework.com/ganache/
 ## Step 6. Run the Web App
 `$ npm run dev`
 http://localhost:3000
+Original Author Video: https://www.youtube.com/watch?v=3681ZYbDSSk
