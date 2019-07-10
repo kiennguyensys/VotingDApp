@@ -13,7 +13,7 @@ $ npm i -g truffle
 http://truffleframework.com/ganache/
 
 
-## Step 4. Compile & Deploy Election Smart Contract
+## Step 4. Compile & Deploy Contract
 `$ truffle migrate --reset`
 
 ## Step 5. Configure Metamask(Browser Extension)
@@ -21,6 +21,6 @@ http://truffleframework.com/ganache/
 - Connect metamask to your local Etherum blockchain provided by Ganache.
 - Import an account provided by ganache.
 
-## Step 6. Run the Front End Application
+## Step 6. Run the Web App
 `$ npm run dev`
 http://localhost:3000
